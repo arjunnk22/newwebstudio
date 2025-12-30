@@ -2,10 +2,10 @@
 
 This website was generated using [V0 by Vercel](https://v0.dev).
 
-- **Project ID**: PIxhOAVkrNi
+- **Project ID**: QgKIQmSHNto
 - **Chat ID**: ik8IYeY9n84
 - **Version ID**: b_iGdEGFbPT0V
-- **Last Updated**: 2025-12-30T22:34:18.247Z
+- **Last Updated**: 2025-12-30T22:39:22.614Z
 
 ## Getting Started
 
